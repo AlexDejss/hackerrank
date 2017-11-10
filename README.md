@@ -1,2 +1,2 @@
 # hackerrank
-solution for most interesting (in my opinion) tasks.
+[Two Characters](https://www.hackerrank.com/challenges/two-characters/problem)
